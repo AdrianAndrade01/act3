@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" type="text/css"/>
+
+        <title>Start Page</title>
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Bienvenido al programa!</h1>
+         <p>¿Quieres calcular el áreay el perímetro de una figura triángulo?</p>
+            <form si="respuesta.jsp" method="post">
+                <input class="text" name="base" type="text" placeholder="Dame la base">
+                <input class="text" name="altura" type="text" placeholder="Dame la altura">
+                <input class="btn" type="submit" name="btn" value="Calcular">
+               
+                </form>
+        </div>
+    </body>
+</html>
